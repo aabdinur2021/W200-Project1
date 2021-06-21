@@ -1,5 +1,22 @@
 # Runtime Plotter
 
+## Contact Details
+
+```bash 
+$ echo "Abdullahi Abdinur"
+$ echo "Semester: Spring 2021"
+$ echo "Email: aabdinur@berkeley.edu"
+```
+
+## Short Summary
+This project has two items:
+1. Full Scope
+2. Scaled Down Scope
+
+Since there was limited time to implement this project, I decided to scale it down based on instructors feedback. All the details of the scaled down version can be found in the **Project_1_Proposal.pdf**. 
+
+In order to fully understand the scope of this project, please read the full scope which can be found in the lower half of the **Project_1_Proposal**.
+
 ## Project Structure
 ```
 .
