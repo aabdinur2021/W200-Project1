@@ -1,0 +1,10 @@
+Type: Jupyter Notebook Extension
+Compatibility: 3.x, 4.x, 5.x, 6.x
+Name: Runtime Plotter
+Main: main.js
+Link: README.md
+Description: |
+  This extension enables you to plot the execution times of a notebook.
+  It provides a mechanism to visualize the execution times on a histogram.
+Parameters:
+- none
